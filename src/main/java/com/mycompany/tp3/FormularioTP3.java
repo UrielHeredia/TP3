@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author elihe
+ * @author Uriel
  */
 public class FormularioTP3 extends javax.swing.JFrame {
 
